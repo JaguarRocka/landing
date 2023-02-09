@@ -1,0 +1,26 @@
+.footer{
+  height: 238px;
+  background-color: #2C2B2B;
+  display: flex;
+}
+
+.footer ul{
+  list-style: none;
+justify-content: center;
+  display: flex;
+  padding-left: 0;
+}
+
+.footer p{
+  text-align: center;
+  font-weight: 16px;
+  color: #6B6C6C;
+}
+
+.footer a{
+  font-size: 25px;
+  color: #1CDD87;
+  margin: 10px;
+  text-align: center;
+
+}

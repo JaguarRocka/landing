@@ -1,0 +1,30 @@
+.cards{
+  display: flex;
+}
+
+.card img{
+  width: 130px;
+  height: 130px;
+}
+
+.card{
+  width: 216px;
+  height: 270px;
+  text-align: center;
+  padding: 5px;
+  box-shadow: -1px 1px 5px 2px rgba(202, 193, 193, 0.75);
+  margin: 40px
+}
+
+
+.card h3,
+.card p{
+  font-size: 16px;
+}
+.card p{
+  color: grey;
+}
+
+#title{
+  text-align: center;
+}

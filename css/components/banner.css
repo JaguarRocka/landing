@@ -1,0 +1,21 @@
+.banner{
+  display: flex;
+  height: 600px;
+  color: white;
+  background-size: cover;
+  background-position: bottom;
+  position: relative;
+  }
+
+  .banner h1{
+    font-size: 30px
+  }
+
+  .banner p{
+    color: #FFFFFF;
+    font-size: 20px;
+  }
+
+  .banner a{
+    position: absolute;
+  }
